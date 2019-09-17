@@ -26,7 +26,7 @@ npm start
 Here is a deployed version of the application:
 https://tickets-vgg.herokuapp.com
 
-### Please try viewing this project in different viewports, I tried to make it responsive!
+### This project is semi-responsive, try different viewports!
 
 ## Part 3
 
