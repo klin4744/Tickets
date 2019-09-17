@@ -24,7 +24,7 @@ npm start
 ```
 
 Here is a deployed version of the application:
-https://klin4744.github.io/Tickets/
+https://tickets-vgg.herokuapp.com
 
 ### Please try viewing this project in different viewports, I tried to make it responsive!
 
