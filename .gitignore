@@ -8,8 +8,7 @@
 # testing
 /coverage
 
-# production
-/build
+/tickets-app
 
 # misc
 .DS_Store

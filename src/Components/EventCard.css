@@ -1,0 +1,8 @@
+.EventCard {
+   border-bottom: 1px solid #eee;
+   margin: 2em;
+   border-radius: 10px;
+}
+.EventCard a {
+   width: 150px;
+}

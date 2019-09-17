@@ -1,0 +1,7 @@
+.Navbar {
+   background-color: rgba(255, 255, 255);
+   border-bottom: 1px solid #eee;
+}
+.Navbar img {
+   height: 10vh;
+}
