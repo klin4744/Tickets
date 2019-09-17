@@ -22,6 +22,8 @@ npm start
 
 Here is a deployed version of the application:
 
+### Please try viewing this project in different viewports, I tried to make it responsive!
+
 ## Part 3
 
 Q1 - Tell us about the possible reasons that the filter your implemented in part 2 did not help the customer experience.
