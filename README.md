@@ -8,7 +8,7 @@ I've commented out the code for part two but it is still availible in this sourc
 1. Fork this repo and clone it to a local repo
 
 ```
-git clone
+git clone https://github.com/yourUserId/Tickets.git
 ```
 
 2. Navigate to <code>src/Components/EventList.js</code> and uncomment out the commented code, there is a note on the actual file
@@ -21,6 +21,7 @@ npm start
 ```
 
 Here is a deployed version of the application:
+https://klin4744.github.io/Tickets/
 
 ### Please try viewing this project in different viewports, I tried to make it responsive!
 
